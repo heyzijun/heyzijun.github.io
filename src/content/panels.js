@@ -10,7 +10,7 @@ export const readingPanels = {
       <li><details class="work-item">
         <summary>
           <span class="work-meta"><span class="work-featured">精选作品</span><time datetime="2019">2019</time></span>
-          <span class="work-title"><a href="https://naboo.cainiao-inc.com/nb/home" target="_blank" rel="noopener noreferrer">智能语音平台 <span aria-hidden="true">↗</span></a></span>
+          <span class="work-title"><a href="https://naboo.cainiao.com/" target="_blank" rel="noopener noreferrer">智能语音平台 <span aria-hidden="true">↗</span></a></span>
           <span class="work-description">在阿里任职期间，主导营收达千万级的智能电话项目，通过分离对话流转与内容、构建可组合的 Action，让平台能够灵活支持业务扩展。</span>
           <span class="work-tags"><span>平台主导</span><span>客户导向</span><span>智能外呼</span><span>智能质检</span><span>智能热线</span></span>
         </summary>
