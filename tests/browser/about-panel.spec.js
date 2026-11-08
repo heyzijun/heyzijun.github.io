@@ -12,7 +12,8 @@ test('navigation and world entrance open the same about panel and browser back r
   await expect(panel).toBeVisible();
   await expect(panel.getByRole('heading', { name: 'Zijun', exact: true })).toBeVisible();
   await expect(panel.getByText('曾任阿里巴巴 P7 技术专家', { exact: true })).toBeVisible();
-  await expect(panel.getByRole('link', { name: '邮箱' })).toHaveAttribute('href', 'mailto:1182336+heyzijun@users.noreply.github.com');
+  await expect(panel.locator('.about-contacts a')).toHaveCount(1);
+  await expect(panel.getByRole('link', { name: 'GitHub' })).toHaveAttribute('href', 'https://github.com/heyzijun');
   await page.goBack();
   await expect(panel).toBeHidden();
   const world = page.getByRole('region', { name: '星辰圆点 · 环绕核心' });

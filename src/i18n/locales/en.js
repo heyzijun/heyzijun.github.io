@@ -28,7 +28,7 @@ export const english = {
   '分布式系统': 'Distributed systems', '：关注系统可靠性、可观测性与持续演进。': ': Focusing on reliability, observability, and continuous evolution.',
   '平台架构设计': 'Platform architecture', '：通过清晰的职责划分与扩展边界，支撑业务多样性。': ': Supporting diverse business needs through clear responsibilities and extension boundaries.',
   '欢迎围绕系统架构、AI 工程与产品合作交流。': 'Get in touch to discuss system architecture, AI engineering, or product collaboration.',
-  '邮箱 ↗': 'Email ↗', '职业历程': 'Career', '从移动端到平台建设，再到 AI 探索。': 'From mobile development to platform engineering and AI exploration.',
+  '职业历程': 'Career', '从移动端到平台建设，再到 AI 探索。': 'From mobile development to platform engineering and AI exploration.',
   '菜鸟裹裹': 'Cainiao Guoguo',
   '来往': 'Laiwang', '负责 Android 客户端开发，投身移动互联网。': 'Developed the Android client, joining the mobile internet wave.',
   '点点虫': 'Diandianchong', '负责视频 App 开发，同时轮岗后端，拓展全栈实践。': 'Developed a video app and rotated into backend engineering to broaden my full-stack experience.',

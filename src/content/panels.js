@@ -47,8 +47,6 @@ export const readingPanels = {
       </ul>
       <p>欢迎围绕系统架构、AI 工程与产品合作交流。</p>
       <div class="about-contacts">
-        <a href="mailto:1182336+heyzijun@users.noreply.github.com">邮箱 ↗</a>
-        <a href="https://github.com/heyzijun" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
         <a href="https://github.com/heyzijun" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
       </div>
     ` },
